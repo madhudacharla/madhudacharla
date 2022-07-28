@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>my_web_page</title>
+</head>
+<body>
+<h1>first line</h1>
+<p><i>This is our html class.This is our first html project.</i></p>
+<h2>second line</h2>
+<p>We are students of IT dept from vignans nirula college<p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBPRmAyBh4E-gjI4zTcNwKNafS_j5YrQh5lw&usqp=CAU" width="400" height="400">>
+</body>
+</html>
